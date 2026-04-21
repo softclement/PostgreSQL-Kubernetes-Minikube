@@ -362,5 +362,4 @@ This confirms that **Persistent Volume storage works correctly**.
 
 # Author
 
-Clement  
-PostgreSQL DBA / Developer
+Clement
